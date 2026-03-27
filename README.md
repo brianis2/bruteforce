@@ -14,3 +14,5 @@ Se mide el tiempo de ejecucion
 Encontrada: 4Z 2 caracter(es) -> 3200 intentos, 0.02 segundos
 -----Conclusion------
 Se puede evidenciar como funciona el uso de fuerza bruta para poder encontras posibles combinacion y obtener una contrasena. Aunque es un programa corto demuestra la importancia de utilizar las contrasenas seguras. 
+¿qué pasa si la contraseña tiene 8+ caracteres y usa mayúsculas, números y símbolos?
+La contrasena va a ser mas dificil de descifrar debido a que se aumenta la posibilidad de combinaciony podria tomar anos descifrar una clave
